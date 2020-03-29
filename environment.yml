@@ -1,0 +1,11 @@
+name: QCRSC_Tutorial
+channels:
+  - defaults
+  - conda-forge
+  - cimcb
+dependencies:
+  - python=3.7.3
+  - numpy
+  - pandas
+  - smooth
+  - qcrsc
