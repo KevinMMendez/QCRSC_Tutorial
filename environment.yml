@@ -9,6 +9,7 @@ dependencies:
   - numpy
   - pandas
   - bokeh=2.0.0
+  - xlrd
   - smooth
   - qcrsc
 
