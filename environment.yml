@@ -7,5 +7,7 @@ dependencies:
   - python=3.7.3
   - numpy
   - pandas
+  - bokeh=2.0.0
   - smooth
   - qcrsc
+
