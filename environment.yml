@@ -11,4 +11,6 @@ dependencies:
   - bokeh=2.0.0
   - xlrd
   - qcrsc
+  - seaborn
+  - scipy
 
